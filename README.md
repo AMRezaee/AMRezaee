@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AMRezaee
-- 👀 I’m interested in Computer Graphics and game programming.
-- 🌱 I’m currently learning graphic apis
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Graphics and Game programming in C++ (sometimes C).
+- 🌱 I’m currently learning a few graphic API and rendering algorithms.
 - 📫 You can find me with amrezaee@protonmail.com
 
 <!---
